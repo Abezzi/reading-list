@@ -1,4 +1,4 @@
-# DESCRIPTION
+# Description
 
 Simple react APP that let you add books and store them locally
 
